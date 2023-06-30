@@ -1,0 +1,16 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: circuitpython-displayio-json-inflater
+Upstream-Contact: Tim C <foamyguy@gmail.com>
+Source: https://github.com/FoamyGuy/CircuitPython_DisplayIO_JSON_Inflater/
+
+Files: examples/layouts/*
+Copyright: 2023 Tim C <foamyguy@gmail.com>
+License: MIT
+
+Files: examples/screenshots/*
+Copyright: 2023 Tim C <foamyguy@gmail.com>
+License: MIT
+
+Files: examples/images/*
+Copyright: 2023 Tim C <foamyguy@gmail.com>
+License: MIT
